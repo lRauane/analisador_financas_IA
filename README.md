@@ -4,8 +4,7 @@
 
 - [Sobre o projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Layout](#layout)
-  - [Web](#layout-web)
+- [Dashboard](#layout)
 - [Como executar o projeto](#como-executar-o-projeto)
   - [Pré-requisitos](#pre-requisitos)
   - [Processamento de dados](#processamento-de-dados)
@@ -62,7 +61,8 @@ pip install -r requirements.txt
 ### 📥 Processamento de dados <a name="processamento-de-dados"></a>
 
 1. Coloque seus arquivos OFX na pasta `extratos/`.
-2. Execute o processamento:
+2. Acesse o site [GROQAPI](https://console.groq.com/keys) e gere sua chave de acesso aos modelos de IA.
+3. Execute o processamento:
    ```bash
    python main.py
    ```
