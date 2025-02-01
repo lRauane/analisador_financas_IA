@@ -39,7 +39,7 @@ O objetivo é facilitar a organização financeira de forma prática e visual.
 O sistema conta com um dashboard interativo feito com **Streamlit** e gráficos gerados pelo **Plotly**.
 
 <p align="center">
-  <img alt="Screenshot do Dashboard" src="https://via.placeholder.com/800x400" />
+  <img alt="Screenshot do Dashboard" src="https://github.com/user-attachments/assets/1d088879-dc82-4d89-9d70-23a7686eb9cf" />
 </p>
 
 ---
@@ -110,4 +110,3 @@ Desenvolvido por **[Rauane Lima](https://github.com/lrauane)** 🚀
 ## 📜 Licença <a name="licenca"></a>
 
 Este projeto está sob a licença MIT - sinta-se à vontade para utilizá-lo e modificá-lo!
-
